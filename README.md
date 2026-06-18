@@ -86,7 +86,7 @@ AI-ATS-Resume-Agent/
 │   └── ats-resume-agent.json     # Importable n8n workflow definition
 │
 ├── screenshots/
-│   └── workflow.png              # Workflow canvas screenshot
+│   └── workflow.jpg              # Workflow canvas screenshot
 │
 ├── .env.example                  # Required environment variables (see below)
 ├── .gitignore
